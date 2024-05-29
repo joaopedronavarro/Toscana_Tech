@@ -12,3 +12,11 @@ Arthur
 
 Navarro
 
+## Imagens do nosso trabalho
+
+![](https://github.com/joaopedronavarro/Toscana_Tech/blob/master/miniaturas/Captura%20de%20tela%202024-05-29%20112957.png)
+
+![](https://github.com/joaopedronavarro/Toscana_Tech/blob/master/miniaturas/Captura%20de%20tela%202024-05-29%20113111.png)
+
+![](https://github.com/joaopedronavarro/Toscana_Tech/blob/master/miniaturas/Captura%20de%20tela%202024-05-29%20113144.png)
+
