@@ -1,4 +1,4 @@
-# Toscana Tech **
+# Toscana Tech *
 
 ## Sobre nosso site
 -------------------
